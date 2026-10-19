@@ -1,5 +1,5 @@
 <!-- # : título principal del README (lo primero que se ve en GitHub) -->
-# Proyecto Django — [Tus Nombres y Apellidos]
+# Proyecto Django — Andy Daniel Romero Hernandez
 
 <!-- ## : subtítulo de la sección con el enlace a producción -->
 ## Demo en vivo (produccion)
