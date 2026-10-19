@@ -16,4 +16,6 @@ sus propios servicios (probado con usuario_a y usuario_b).
 <!-- ## : subtítulo de la sección con la prueba de aislamiento -->
 ## Prueba de aislamiento
 <!-- reemplaza el texto entre corchetes por la descripción de tu prueba -->
-se intento romper el servidor sin exito alguno, mostrando el error 404 al intentar editar el link ingresando un servicio con id no registrado a mi usuario
+Se hicieron pruebas con usuario_a y usuario_b para ver que cada uno tuviera sus propios servicios. También se intentó cambiar el ID de un servicio desde la URL para entrar a uno que no correspondía al usuario, pero apareció el error 404 y no dejó acceder.
+
+Con esto se comprobó que un usuario no puede editar los servicios de otro.
